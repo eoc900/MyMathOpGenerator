@@ -1,0 +1,15 @@
+body {
+  color: black;
+  max-width:800px;
+  margin: 100px auto 0;
+  text-align: center;
+  display: table;
+}
+
+.counter {
+  display: table-cell;
+  margin:1.5%;
+  font-size:50px;
+  width:200px;
+  vertical-align: middle;
+}

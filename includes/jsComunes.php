@@ -1,0 +1,1 @@
+<script src="js/counter/counter.js"></script>
